@@ -267,6 +267,11 @@ img.right {
 	padding:20px 25px 0px 60px;
 }
 
+#sidebar1 a {
+	float: left;
+	padding:0;
+}
+
 #sidebar2 {
 	float: right;
 	width: 220px;
