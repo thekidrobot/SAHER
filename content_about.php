@@ -1,34 +1,42 @@
     <!-- start content -->
     <div id="content">
       <div class="post">
-        <img src="images/title_who_we_are.png" />
         <div class="entry">
-          <p>Lorem Ipsum is simply dummy text of the printing and typesetting
-          industry. Lorem Ipsum has been the industry's standard dummy text ever
-          since the 1500s, when an unknown printer took a galley of type and
-          scrambled it to make a type specimen book. It has survived not only
-          five centuries, but also the leap into electronic typesetting,
-          remaining essentially unchanged. It was popularised in the 1960s with
-          the release of Letraset sheets containing Lorem Ipsum passages, and
-          more recently with desktop publishing software like Aldus PageMaker
-          including versions of Lorem Ipsum...</p>
-          <p class="links"><a href="#" class="more">Read More</a></p>
+          
+          <h1> Vision </h1>
+          <p>Creating a World where Differences are Recognised, Accepted and Appreciated.</p>
+          
         </div>
       </div>
       <div class="post">
-        <img src="images/awards.png" />
         <div class="entry">
-          <p>Lorem Ipsum is simply dummy text of the printing and typesetting
-          industry. Lorem Ipsum has been the industry's standard dummy text ever
-          since the 1500s, when an unknown printer took a galley of type and
-          scrambled it to make a type specimen book. It has survived not only
-          five centuries, but also the leap into electronic typesetting,
-          remaining essentially unchanged. It was popularised in the 1960s with
-          the release of Letraset sheets containing Lorem Ipsum passages, and
-          more recently with desktop publishing software like Aldus PageMaker
-          including versions of Lorem Ipsum....</p>
-          <p class="links"><a href="#" class="more">Read More</a></p>
+          <h1> Mission </h1>
+          <p>SAHER's mission is to enable young people to think critically and
+          reflect on their actions to foster respect for diversity and impact
+          themselves and the society positively.</p>
+
         </div>
       </div>
+
+      <div class="post">
+        <div class="entry">
+          <h1> We Believe </h1>
+          <p>An openness to learn from multiple realities broadens our perspective<br />
+          Acceptance and appreciation of differences makes the world a beautiful and multilayered mosaic<br />
+          Freedom of choice leads to a greater sense of ownership towards shared spaces<br />
+          </p>
+
+        </div>
+      </div>
+
+      <div class="post">
+        <div class="entry">
+          <h1> We Assume </h1>
+          <p>Young people have immense potential to think constructively to bring about positive change<br />
+          Every individual has an active citizen in him/her waiting to be revealed through the appropriate sparks<br /> 
+          The ability to question absolute power and the zeal to initiate positive action creates a society that is more just and equitable.</p>
+        </div>
+      </div>
+
     </div>
     <!-- end content -->

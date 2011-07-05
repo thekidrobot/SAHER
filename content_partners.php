@@ -1,9 +1,9 @@
           <!-- start content -->
     <div id="content">
       <div class="post">
-        <img src="images/title_who_we_are.png" />
         <div class="entry">
           <p>
+            <h1>People who work with</h1>
             Pravah, Delhi<br />
             Sir Ratan Tata Trust<br />
             Magic Bus, Mumbai<br />

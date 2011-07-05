@@ -1,8 +1,8 @@
     <!-- start content -->
     <div id="content">
       <div class="post">
-        <img src="images/title_who_we_are.png" />
         <div class="entry">
+          <h1>From where we began</h1>
           <p>The beginning of our work goes back to December 1992 when the
           destruction of a mosque in Uttar Pradesh, India by fundamentalist
           forces changed the social fabric and the historical context in which

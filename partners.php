@@ -9,7 +9,7 @@
   <div id="page">
   <?php include("left_about.php"); ?>
   <?php include("content_partners.php"); ?>
-  <?php include("right_about.php"); ?>
+  <?php //include("right_about.php"); ?>
   <div style="clear: both;">&nbsp;</div>
   </div>
   <!-- end page -->
