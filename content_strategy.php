@@ -3,12 +3,6 @@
       <div class="post">
         <div class="entry">
           <p>
-            <h1>Working Principles</h1>
-            Learning to Unlearn<br/>
-            Learning collectively amidst diversity<br/>
-            Developing Critical thinking through self reflection and analysing connection with the world around<br/>
-            Building peace through citizenship action<br/>
-            <br/> 
             <h1>Core Strategies</h1>
             <b>Working with adolescents and youth:</b> To provide spaces to young
             people to interact and explore their abilities, such that they begin
@@ -24,19 +18,6 @@
             a heterogeneous social context by breaking stereotypes and
             undertaking activities that involve people from various
             backgrounds<br/><br/>
-            <h1>Process Model</h1>  
-            Youth from diverse communities lack exposure to each other and to
-            new ideas, leading to closed, unreflective minds and prejudices
-            towards different people and views. This restricts them from taking
-            initiatives and exploring creative options in career and social
-            action.<br/> 
-            Addressing this learning gap, SAHER creates a space where young people discover
-            themselves, identify their orientation towards conflict handling and develop
-            their perspectives around respect for diversity, social action and career
-            choices.<br/> 
-            We work with youth from colleges and communities, adolescents from schools in
-            the community and with people at large. <br/><br/>
-            
             
           </p>
         </div>
