@@ -9,7 +9,7 @@
   <div id="page">
   <?php include("left_programs.php"); ?>
   <?php include("content_programs_mhamara.php"); ?>
-  <?php include("right_programs.php"); ?>
+  <?php include("right_programs_mhamara.php"); ?>
   <div style="clear: both;">&nbsp;</div>
   </div>
   <!-- end page -->
