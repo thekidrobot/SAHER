@@ -1,6 +1,6 @@
     <div id="sidebar2" class="sidebar">
       <div align="left">
-        <a href="get_involved.php"><img src="images/button_be_a_volunteer.png" /></a>
+        <a href="get_involved.php"><img src="images/button_be_a_volunteer.png" /></a>&nbsp;&nbsp;
         <a href="partners.php"><img src="images/button_be_a_support.png" /></a>
       </div>
       <br />

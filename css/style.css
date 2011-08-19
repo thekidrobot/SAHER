@@ -138,7 +138,7 @@ img.right {
 	text-decoration: none;
 	text-transform: capitalize;
 	font-family: Arial, Helvetica, sans-serif;
-	font-size: 13px;
+	font-size: 14px;
 	font-weight: bold;
 	color: #FFFFFF;
 }
@@ -203,7 +203,9 @@ img.right {
 }
 
 .post h1 {
-	font-weight: normal;
+	font-weight:bold;
+	font-family: "Trebuchet MS", Georgia, "Times New Roman", Times, serif;
+	font-size:18px;
 }
 
 .title {
@@ -239,6 +241,9 @@ img.right {
 
 .entry {
 	padding: 0px 0px;
+	color: #ffffff;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size:12px;
 }
 
 .links {
@@ -317,8 +322,8 @@ img.right {
 }
 
 .sidebar a {
-	padding-left: 15px;
-	background: url(../images/img09.gif) no-repeat left 5px;
+	/*padding-left: 15px;*/
+	/*background: url(../images/img09.gif) no-repeat left 5px;*/
 	color: #FFFFFF;
 }
 

@@ -4,8 +4,6 @@
         <div class="entry">
           <h1>Mohalla Hamara</h1>    
           <p>
-            
-
             <a href="#">Community Center</a>
             <a href="#">Governance and Advocacy</a>
             <a href="#">Annual Peace Week</a>
