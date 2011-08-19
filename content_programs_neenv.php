@@ -2,28 +2,35 @@
     <div id="content">
       <div class="post">
         <div class="entry">
-          <h1>Parwaaz</h1>    
+          <h1>Neenv</h1>    
           <p>
-            A process where young people from colleges and communities go
-            through a journey of self-exploration while learning collectively.
-            It is an interactive programme where experiential learning enables
-            youth to:<br />
-            <ul>
-              <li>
-              Explore their abilities and dreams, such that they begin their journeys as
-              agents of social change </li>
-              <li>
-              Understand that there are multiple and diverse realities 
-              in the world and recognise and respect differences </li>
-              <li>
-              Imbibe skills to deal better
-              with conflicts and negotiate day-to-day relationships in any sphere of life </li>
-              <li> Develop a sense of ownership and responsibility towards community resources </li>
-            </ul>
-              Weekly sessions, discussion circles, exposure trips, rural camps, action
-              projects, short internships and campaigns on social issues mark the journey that
-              starts with building competencies and gradually moves into exposure to multiple
-              realities, perspective building and initiating social action.
+            NEENV is a program that essentially facilitates the
+            process of a systems interface
+            between the Youth and the City.
+            Rather than provide employment
+            references, it works to create a
+            higher employabililty qoutient so
+            Youth are equipped with life
+            skills and technical competency to
+            seek jobs or start enterprises and
+            take their rightful place in the
+            resource-rich economy.
+            In order to create the appropriate
+            intervention, it becomes necessary
+            to employ the scientific method
+            and temper it with our spirit of
+            fervour and activism - our Junoon.
+            Therefore we decided to survey the
+            environment and capture data for
+            further analysis and action. So,
+            we surveyed the Youth and carried
+            out statistical analysis. At the
+            same time we surveyed the
+            employers and other service
+            providers. Then we created our
+            intervention in the form of a
+            resource bank called <a href="programs_tameer.php">"Tameer"</a> to address the
+            requirements of the Youth.
           </p>
         </div>
       </div>

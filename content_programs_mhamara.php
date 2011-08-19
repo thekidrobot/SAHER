@@ -74,12 +74,6 @@
             child in the age group of 6-14 years will be provided 8 years of elementary
             education in an age appropriate classroom in the vicinity of his/her.
             neighbourhood.<br />
-            
-            3 buttons
-            Download:
-            RTI Application Format
-            RTE Act (English)
-            RTE Act (Hindi)
           </p>
         </div>
       </div>

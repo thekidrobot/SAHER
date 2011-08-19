@@ -1,7 +1,7 @@
     <div id="sidebar2" class="sidebar">
       <div align="left">
-        <img src="images/button_be_a_volunteer.png" />&nbsp;&nbsp;&nbsp;
-        <img src="images/button_be_a_support.png" />
+        <a href="get_involved.php"><img src="images/button_be_a_volunteer.png" /></a>
+        <a href="partners.php"><img src="images/button_be_a_support.png" /></a>
       </div>
       <br />
       <div align="left">
@@ -12,7 +12,7 @@
       <br />
       
       <div align="left">
-        <img src="images/bala.jpg" />  
+        <img src="images/bala.png" />  
       </div>
 
       <div>
