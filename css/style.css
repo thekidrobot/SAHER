@@ -269,18 +269,22 @@ img.right {
 #sidebar1 {
 	float: left;
 	width: 150px;
-	padding:20px 25px 0px 60px;
+	padding:20px 25px 0px 45px;
 }
 
 #sidebar1 a {
-	float: left;
 	padding:0;
+	text-transform: capitalize;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #FFFFFF;
 }
 
 #sidebar2 {
 	float: right;
 	width: 220px;
-	padding:20px 60px 0px 25px;
+	padding:20px 45px 0px 25px;
 }
 
 .sidebar {

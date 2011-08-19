@@ -1,12 +1,9 @@
 <?php
+session_start();
 
-// Shows the name of the script in execution, used by menus and custom scripts
-$file = $_SERVER["SCRIPT_NAME"];
-$break = Explode('/', $file);
-$curr_page = $break[count($break) - 1];
-
-//Website name for page titles
-$website_name = "SAHER - Society for Awareness, Harmony &amp; Equal Rights."; ?>
+include("includes/formvalidator.php");
+include("includes/general_functions.php");
+?>
 
 <head>
     <meta http-equiv="pragma" content="no-cache">
