@@ -330,15 +330,55 @@ img.right {
 /* Search */
 
 #searchform {
-	margin: 0;
-	padding: 0 0 20px 0;
+	padding: 20px;
+	border:1px solid #ffffff;
 }
 
 #searchform br {
 	display: none;
 }
 
-#searchform h2 {
+#searchform p {
+	text-align:left;
+	color:#ffffff;
+	text-transform:capitalize;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-weight: normal;
+}
+
+#searchform input{
+	font-size: 12px;  
+  border: 1px solid #666666;
+	width: 170px;
+	height: 20px;
+	margin-top:5px;
+}
+
+#searchform select{
+	font-size: 12px;  
+  border: 1px solid #666666;
+	width: 170px;
+	height: 20px;
+	margin-top:5px;
+}
+
+#searchform textarea{
+	font-size: 12px;  
+  border: 1px solid #666666;
+	width: 170px;
+	margin-top:5px;
+}
+
+#searchform .button{    
+  font-family: Verdana, Arial, Helvetica, sans-serif;    
+  background-color: #f8f8f8;
+	border:1px solid #ffffff;
+  color: #400000;
+	width:80px;
+	height:25px;
+	margin-left:50px;
+	padding-bottom:2px;
 }
 
 #s {
@@ -363,45 +403,31 @@ img.right {
 	font-size: 10px;
 	color: #CCCCCC;
 }
-/* Calendar */
+/* Stories */
 
-#calendar_wrap {
-	padding: 10px 15px;
-	text-align: center;
+#stories {
+	margin-top:15px;
+	padding: 5px 0px;
 }
 
-#calendar_wrap table {
-	width: 100%;
+#stories p {
+	margin-top:15px;
+	color:#ffffff;
+	text-align:justify;
+	line-height:150%;
+	font-size:11px;
 }
 
-#calendar_wrap th {
+#stories a {
+	margin-top:15px;
+	color:#00ff00;
+	text-align:justify;
+	line-height:150%;
+	font-size:11px;
 }
 
-#calendar_wrap td {
-}
-
-#calendar_wrap tfoot td {
-	border: none;
-}
-
-#calendar_wrap tfoot td#prev {
-	text-align: left;
-	font-weight: bold;
-	border: none;
-}
-
-#calendar_wrap tfoot td#prev a {
-	border: none;
-}
-
-#calendar_wrap tfoot td#next {
-	text-align: right;
-	font-weight: bold;
-	border: none;
-}
-
-#calendar_wrap tfoot td#next a {
-	border: none;
+#stories img {
+margin-left:10px;
 }
 
 /* Footer */
