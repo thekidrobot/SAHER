@@ -3,7 +3,7 @@
       <div class="post">
         <div class="entry">
           <p>
-            <h1>People who work with</h1>
+            <h1><img src="images/title_people.png" /></h1>
             Pravah, Delhi<br />
             Sir Ratan Tata Trust<br />
             Magic Bus, Mumbai<br />

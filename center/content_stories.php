@@ -1,10 +1,10 @@
     <!-- start content -->
     <div id="content">
       <div class="post">
-        <img src="images/title_history.png" />
+        <!--<img src="images/title_history.png" />-->
 
         <div class="entry">
-          <h1>Saima</h1>
+          <h1><img src="images/title_saima.png" /></h1>
           <p>Saima, an 18 year old from Tolani college says "I used to think that
           Hindus and Muslims must live within their own distinct communities.
           After working together with people from different communities when I
@@ -17,7 +17,7 @@
         </div>
 
         <div class="entry">
-          <h1>Bala</h1>
+          <h1><img src="images/title_bala.png" /></h1>
           <p>Bala, living in a Hindu dominated settlement held up a paper bag he
           had just made out of newspapers. "I plan to use this to carry my
           Karate uniform instead of the plastic bags I've been carrying so far".
@@ -32,7 +32,7 @@
         </div>
         
         <div class="entry">
-          <h1>Heena</h1>
+          <h1><img src="images/title_heena.png" /></h1>
           <p>Heena's family believed that women need to be married young, so she
           was married shortly after she finished her secondary school education,
           when she was 20 years old. Heena's husband is a volunteer for SAHER,
@@ -58,7 +58,7 @@
         </div>
         
         <div class="entry">
-          <h1>Dhyanchand</h1>
+          <h1><img src="images/title_dhyanchand.png" /></h1>
           <p>Dhyanchand is 19 years old and came to SAHER with little knowledge
           about what career to pursue. Since he had to reappear for his standard
           12 exams, he had ample time and did not know what to do in free time.

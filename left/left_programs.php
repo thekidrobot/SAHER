@@ -1,7 +1,7 @@
    <div id="sidebar1" class="sidebar">
     <div align="left">
-     <span><a href="programs.php">Parwaaz</a></span><br />
-     <span><a href="neenv.php">Neenv</a></span><br />
-     <span><a href="mhamara.php">Mohalla Hamara</a></span><br />
+     <a href="programs.php"><img src="images/parwaaz.png"/></a><br />
+     <a href="neenv.php"><img src="images/neenv.png"/></a><br />
+     <a href="mhamara.php"><img src="images/mhamara.png"/></a><br />
     </div>
    </div>

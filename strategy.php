@@ -7,9 +7,9 @@
   <?php include("includes/menu.php"); ?>
   <!-- start page -->
   <div id="page">
-  <?php include("left_about.php"); ?>
-  <?php include("content_strategy.php"); ?>
-  <?php include("right_strategy.php"); ?>
+  <?php include("left/left_about.php"); ?>
+  <?php include("center/content_strategy.php"); ?>
+  <?php include("right/right_strategy.php"); ?>
   <div style="clear: both;">&nbsp;</div>
   </div>
   <!-- end page -->

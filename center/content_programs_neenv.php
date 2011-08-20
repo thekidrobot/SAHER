@@ -1,8 +1,8 @@
-          <!-- start content -->
+    <!-- start content -->
     <div id="content">
       <div class="post">
         <div class="entry">
-          <h1>Neenv</h1>    
+          <h1><img src="images/title_neenv.png"/></h1>    
           <p>
             NEENV is a program that essentially facilitates the process of a systems interface
             between the Youth and the City. Rather than provide employment

@@ -3,7 +3,7 @@
 //EVERY FUNCTION HERE SHOULD BE COMMENTED.
 
 //Email recipient. Change after test.
-$email_admin = "andres.gonzalez.vargas@gmail.com";
+$email_admin = "saher.org@gmail.com";
 
 // set the default timezone to use. Available since PHP 5.1
 date_default_timezone_set('UTC');

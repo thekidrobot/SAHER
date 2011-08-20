@@ -3,7 +3,7 @@
 
       <div class="post">
         <div class="entry">
-          <h1> We Assume </h1>
+          <h1><img src="images/title_we_assume.png" /></h1>
           <p>
             <ul>
               <li>Young people have immense potential to think constructively to

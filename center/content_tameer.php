@@ -1,10 +1,11 @@
-          <!-- start content -->
+  <!-- start content -->
     <div id="content">
       <div class="post">
         <div class="entry">
-          <h1>Tameer</h1>    
+          <h1><img src="images/title_tameer.png" /></h1>    
           <p>
-            Tameer PPT Info
+            <img src="images/tameer1.png" /><br />
+            <img src="images/tameer2.png" />
           </p>
         </div>
       </div>

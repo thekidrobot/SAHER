@@ -1,13 +1,13 @@
           <!-- start content -->
     <div id="content">
       <div class="post">
-        <div class="entry">
-          <a href="ccenter.php">Community Center</a>
-          <a href="governance.php">Governance and Advocacy</a>
-          <a href="peace_week.php">Annual Peace Week</a>
+        <div class="entry">&nbsp;&nbsp;&nbsp;
+          <a href="ccenter.php"><img src="images/ccenter.png" /></a>&nbsp;&nbsp;
+          <a href="governance.php"><img src="images/governance.png" /></a>&nbsp;&nbsp;
+          <a href="peace_week.php"><img src="images/pweek.png" /></a>
           <br />
           <br />
-          <h1>Annual Peace Week</h1>    
+          <h1><img src="images/title_pweek.png" /></h1>    
           <p>
             We are a country where more than 100 languages, a little more than twenty
             religious beliefs and a multitude of cuisines come together each day to stir up a

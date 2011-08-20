@@ -3,7 +3,7 @@
       <div class="post">
         <div class="entry">
           <p>
-            <h1>Core Strategies</h1>
+            <h1><img src="images/title_core_strategy.png" /></h1>
             <b>Working with adolescents and youth:</b> To provide spaces to young
             people to interact and explore their abilities, such that they begin
             their journeys as agents of social change. The attempt here is to

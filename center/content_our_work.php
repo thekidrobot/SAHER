@@ -3,7 +3,7 @@
       <div class="post">
         <div class="entry">
           <p>
-            <h1>Process Model</h1>  
+            <h1><img src="images/title_process_model.png" /></h1>  
             We work with youth from colleges and communities, adolescents from schools in
             the community and with people at large.<br/>
             Youth from diverse communities lack exposure to each other and to
@@ -25,7 +25,6 @@
                 choices.
               </li>
             </ul>
-            <img src="images/our_work_center_1.png" />
           </p>
         </div>
       </div>

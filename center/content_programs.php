@@ -1,8 +1,8 @@
-          <!-- start content -->
+    <!-- start content -->
     <div id="content">
       <div class="post">
         <div class="entry">
-          <h1>Parwaaz</h1>    
+          <h1><img src="images/title_parwaaz.png"/></h1>    
           <p>
             A process where young people from colleges and communities go
             through a journey of self-exploration while learning collectively.

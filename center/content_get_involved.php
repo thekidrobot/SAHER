@@ -3,7 +3,7 @@
   <div id="content">
     <div class="post">
       <div class="entry">
-        <h1>Why should I be a volunteer?</h1>    
+        <h1><img src="images/title_volunteer.png" /></h1>    
         <p>
           <ul>
             <li>
