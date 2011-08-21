@@ -1,6 +1,19 @@
-    <!-- start content -->
-    <div id="content">
+  <!-- start content -->
+  <div id="content">
 
+      <div class="post">
+        <div class="entry">
+          <h1><img src="images/title_we_believe.png" /></h1>
+          <p>
+            <ul>
+              <li>An openness to learn from multiple realities broadens our perspective</li>
+              <li>Acceptance and appreciation of differences makes the world a beautiful and multilayered mosaic</li>
+              <li>Freedom of choice leads to a greater sense of ownership towards shared spaces</li>
+            </ul>
+          </p>
+        </div>
+      </div>
+    
       <div class="post">
         <div class="entry">
           <h1><img src="images/title_we_assume.png" /></h1>

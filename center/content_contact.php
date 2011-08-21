@@ -10,6 +10,7 @@
             Tel. 022 282 244 386<br/>
             Mail: saher.org@gmail.com
           </p>
+          <img src="images/legal.png" />
         </div>
       </div>
     </div>

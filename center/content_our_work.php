@@ -1,5 +1,5 @@
           <!-- start content -->
-    <div id="content">
+    <div id="content" style="margin-left:50px">
       <div class="post">
         <div class="entry">
           <p>

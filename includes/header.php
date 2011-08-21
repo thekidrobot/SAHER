@@ -1,6 +1,6 @@
 <?php
+error_reporting(0);
 session_start();
-
 include("includes/formvalidator.php");
 include("includes/general_functions.php");
 ?>
