@@ -7,6 +7,7 @@
     </div>
 
     <div align="left">
+      <p align="center"><b>Dr. Rama Shyam, Director, SAHER speaks on Interfaith Cooperation</b></p>
       <!--<img src="images/main_page_pic_right.png" />  -->
       <iframe width="230" height="200" src="http://www.youtube.com/embed/azfspPf4pvM?&rel=0&showinfo=0&disablekb=1&autohide=1&playlist=azfspPf4pvM" frameborder="0" allowfullscreen></iframe>
       <br />
