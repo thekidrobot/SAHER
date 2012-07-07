@@ -3,7 +3,8 @@
     <div id="header">
       <?php if ($curr_page == "index.php"
                 or $curr_page == "calendar.php") {?><div id="logo"><img src="images/main_banner.png" usemap="#follow"></div><?php } ?>
-      <?php if ($curr_page == "about.php") {?><div id="logo"><img src="images/about_us_banner.png" usemap="#follow"></div><?php } ?>
+      <?php if ($curr_page == "about.php"
+                or $curr_page == "awards.php") {?><div id="logo"><img src="images/about_us_banner.png" usemap="#follow"></div><?php } ?>
       <?php if ($curr_page == "history.php") {?><div id="logo"><img src="images/history_banner.png" usemap="#follow"></div><?php } ?>
       <?php if ($curr_page == "partners.php") {?><div id="logo"><img src="images/partners_banner.png" usemap="#follow"></div><?php } ?>
       <?php if ($curr_page == "strategy.php") {?><div id="logo"><img src="images/strategies_banner.png" usemap="#follow"></div><?php } ?>

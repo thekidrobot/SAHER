@@ -122,8 +122,9 @@ img.right {
 
 #menu ul {
 	margin: 0;
-	padding: 10px 0px 0px 100px;
+	padding: 10px 0px 0px 60px;
 	list-style: none;
+	
 }
 
 #menu li {
@@ -134,7 +135,7 @@ img.right {
 #menu a {
 	height: 30px;
 	margin: 0;
-	padding: 10px 20px;
+	padding: 10px 15px;
 	text-decoration: none;
 	text-transform: capitalize;
 	font-family: Arial, Helvetica, sans-serif;
@@ -160,6 +161,18 @@ img.right {
 }
 
 /* Page */
+
+.separator-left {
+	margin-left: -25px;
+	border: 1px dotted #B21380;
+	margin-top: 20px;
+}
+
+.separator-right {
+	margin-right: -25px;
+	border: 1px dotted #B21380;
+	margin-top: 20px;
+}
 
 #page {
 	width: 940px;
